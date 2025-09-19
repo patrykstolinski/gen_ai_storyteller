@@ -1,0 +1,25 @@
+{
+  "name": "gen_ai_storyteller",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrykstolinski/gen_ai_storyteller.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrykstolinski/gen_ai_storyteller/issues"
+  },
+  "homepage": "https://github.com/patrykstolinski/gen_ai_storyteller#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "openai": "^5.21.0"
+  }
+}
